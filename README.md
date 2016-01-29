@@ -14,6 +14,7 @@ Notes for myself, but feel free to contribute if you have things to share :D
 - Dear ImGui [tested : green] : https://github.com/ocornut/imgui
 - cppFormat [not tested] : https://github.com/cppformat/cppformat
 - ImWindow [not tested] : https://github.com/thennequin/ImWindow
+- Debug-Draw [not tested] : https://github.com/glampert/debug-draw
 
 #### Rendering
 
@@ -22,7 +23,7 @@ Notes for myself, but feel free to contribute if you have things to share :D
 #### Profiling
 
 - Brofiler [not tested] : https://github.com/bombomby/brofiler
-- MicroProfile [tested : green]
+- MicroProfile [tested : green] : https://bitbucket.org/jonasmeyer/microprofile
 - LiveMemTracer [tested : green] : https://github.com/cesarl/LiveMemTracer
 - IGMemTracer [not tested] : https://github.com/deplinenoise/ig-memtrace
 
@@ -34,10 +35,21 @@ Notes for myself, but feel free to contribute if you have things to share :D
 
 #### Physics
 
+#### Reflexion / Serialization
+
+- rttr [not tested] Reflexion library : https://github.com/rttrorg/rttr
+- Cereal [tested : orange] : https://github.com/USCiLab/cereal
+
 #### Containers / Helpers
 
 - StringID [tested : orange] : https://github.com/cesarl/StringID
 - STB [tested : green] : https://github.com/nothings/stb
+- str [tested : green] : https://github.com/ocornut/str
+- ConcurrentQueue [tested : green] : https://github.com/cameron314/concurrentqueue
+
+#### Math
+
+- GLM [tested : green] : http://glm.g-truc.net/0.9.7/index.html
 
 #### Compiling / Project generation
 
