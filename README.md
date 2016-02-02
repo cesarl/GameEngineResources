@@ -31,7 +31,8 @@ Notes for myself, but feel free to contribute if you have things to share :D
 
 - PSDLite [not tested] : https://github.com/ipkn/psdlite
 - FontStash [not tested] Font atlas builder : https://github.com/memononen/fontstash
-- ResiL : https://github.com/ScaledLizard/ResIL
+- ResiL : https://github.com/ScaledLizard/
+- AMD Tootle : https://github.com/GPUOpen-Tools/amd-tootle
 
 #### Physics
 
@@ -46,6 +47,8 @@ Notes for myself, but feel free to contribute if you have things to share :D
 - STB [tested : green] : https://github.com/nothings/stb
 - str [tested : green] : https://github.com/ocornut/str
 - ConcurrentQueue [tested : green] : https://github.com/cameron314/concurrentqueue
+- Turf : https://github.com/preshing/turf
+- Junction : https://github.com/preshing/junction
 
 #### Math
 
