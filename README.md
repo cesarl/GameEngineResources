@@ -19,6 +19,7 @@ Notes for myself, but feel free to contribute if you have things to share :D
 #### Rendering
 
 - BGFX : https://github.com/bkaradzic/bgfx
+- Oryol : https://github.com/floooh/oryol
 
 #### Profiling
 
@@ -26,6 +27,8 @@ Notes for myself, but feel free to contribute if you have things to share :D
 - MicroProfile [tested : green] : https://bitbucket.org/jonasmeyer/microprofile
 - LiveMemTracer [tested : green] : https://github.com/cesarl/LiveMemTracer
 - IGMemTracer [not tested] : https://github.com/deplinenoise/ig-memtrace
+- ApiTrace : https://github.com/apitrace/apitrace
+- Remotery : https://github.com/Celtoys/Remotery
 
 #### Assets
 
